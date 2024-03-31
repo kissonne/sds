@@ -1,0 +1,50 @@
+
+.header{
+    width: 100%;
+    height: 70vw;
+    background-image: url(img/header.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    padding-top: 2vw;
+    .header__menu1{
+        word-spacing: 1.6vw;
+        float: left;
+        margin-left: 3vw;
+        a{
+            display: inline;
+            font-family: 'roboto', sans-serif;
+            font-size: 1.4vw;
+            color: white;
+        }
+    }
+    
+    .header__menu2{
+        
+        float: right;
+        list-style: none;
+        word-spacing: 1.6vw;
+        margin-right: 3vw;
+        
+        a{
+            display: inline;
+            font-family: 'roboto', sans-serif;
+            font-size: 1.4vw;
+            color: white;
+        }
+        
+    }
+    .marta{
+        width: 80%;
+        margin-top: 40vw;
+    }
+    .eco{
+        font-family: 'roboto', sans-serif;
+        color: white;
+        font-size: 6vw;
+        margin-left: 2.8vw;
+    }
+}
+
+
+
